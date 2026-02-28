@@ -1,0 +1,5 @@
+{
+  "name": "GeoRisk AI",
+  "description": "Geopolitical Risk Intelligence Dashboard providing real-time analysis of global events using Gemini AI and live news feeds.",
+  "requestFramePermissions": []
+}
